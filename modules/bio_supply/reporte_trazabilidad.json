@@ -1,0 +1,29 @@
+[
+    {
+        "timestamp": "2026-10-12 02:46:48",
+        "id_lote": "LOTE-MAR-001",
+        "producto": "Pulpo Falso / Tilapia",
+        "proveedor": "Distribuidora Central",
+        "temperatura_celsius": 2.5,
+        "estado_bioseguridad": "CONFORME",
+        "alerta": null
+    },
+    {
+        "timestamp": "2026-10-12 02:46:48",
+        "id_lote": "LOTE-MAR-002",
+        "producto": "Camarón Mediano",
+        "proveedor": "Mariscos del Pacífico",
+        "temperatura_celsius": 7.8,
+        "estado_bioseguridad": "CRÍTICO - RIESGO BACTERIOLÓGICO",
+        "alerta": "Temperatura de 7.8°C excede el límite seguro de 4.0°C."
+    },
+    {
+        "timestamp": "2026-10-12 02:46:48",
+        "id_lote": "LOTE-MAR-003",
+        "producto": "Filete Congelado",
+        "proveedor": "Congelados del Norte",
+        "temperatura_celsius": -20.1,
+        "estado_bioseguridad": "DESVIACIÓN DE CONGELACIÓN",
+        "alerta": "Temperatura de -20.1°C por debajo del rango estándar."
+    }
+]
